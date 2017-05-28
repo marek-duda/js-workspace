@@ -1,1 +1,1 @@
-#8.2 Pierwsze kroki
+# 8.2 Pierwsze kroki
